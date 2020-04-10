@@ -7,8 +7,11 @@ This repository contains files related to the project "Concordance of microarray
 # Contributors
 
 Divya Venkatraman ( Analyst) 
-Garima Lohani (Programmer) 
-Marlene Tejeda (Biologist)  
+
+Garima Lohani (Programmer)
+
+Marlene Tejeda (Biologist) 
+
 Xudong Han (Data Curator)
 
 
