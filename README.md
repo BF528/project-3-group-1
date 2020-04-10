@@ -17,6 +17,9 @@ Xudong Han (Data Curator)
 
 # Repository Contents
 Data curator folder-
+
 Programmer folder- contains all codes related to programmer section of the project.
+
 Analyst folder-
+
 Biologist folder-
