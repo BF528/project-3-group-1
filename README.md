@@ -1,11 +1,19 @@
 # Project Description
 
-A brief description of what this repository is for and what it contains
+This repository contains files related to the project "Concordance of microarray and RNA-seq differential gene expression"
+(https://bf528.readthedocs.io/en/latest/content/projects/project_3_rnaseq_2/project_3_rnaseq_2.html)
+
 
 # Contributors
 
-List contributor names and github user names, or email addresses if desired
+Divya Venkatraman ( Analyst) 
+Garima Lohani (Programmer) 
+Marlene Tejeda (Biologist)  
+Xudong Han (Data Curator)
+
 
 # Repository Contents
-
-Provide a brief description of each script/code file in this repo, what it does, and how to execute it
+Data curator folder-
+Programmer folder- contains all codes related to programmer section of the project.
+Analyst folder-
+Biologist folder-
